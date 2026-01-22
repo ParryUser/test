@@ -29,17 +29,20 @@ jobs:
 
       - name: Enable Flutter Web
         run: flutter config --enable-web
+        working-directory: flutter_app
 
       - name: Install dependencies
+        working-directory: flutter_app
         run: flutter pub get
 
       - name: Build Flutter Web
+        working-directory: flutter_app
         run: flutter build web --release --base-href "/${{ github.event.repository.name }}/"
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: build/web
+          path: flutter_app/build/web
 
   deploy:
     environment:
@@ -52,4 +55,5 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
 

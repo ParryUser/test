@@ -3,18 +3,18 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "c0cdbfc55b8fb9c0d37e3f8645df7367",
-"assets/AssetManifest.bin.json": "9dc247515a11c2c5cb9d094f5f5e4201",
+const RESOURCES = {"assets/AssetManifest.bin": "ccb63e6b2bfeb4860731d69443b0d480",
+"assets/AssetManifest.bin.json": "abf27383f8857b42adca0077bb275dbd",
 "assets/assets/GoogleDotsLoading.json": "b90bcb6ceb76c0b8d884749a00dc68e4",
 "assets/assets/HeartBeatMedical.json": "06f92d273eccc3938c448f4faaf4f981",
 "assets/assets/Loader.json": "652db5b690da79f6e6a42ddecdfc33ed",
 "assets/assets/loading.json": "93cc8a057a539413f28b64337958aff1",
 "assets/FontManifest.json": "9acccae002c9e45aa3e9ef78ebfe66ef",
 "assets/fonts/Anton.ttf": "737b8ee4fe5943038ed2f99cdc408acd",
-"assets/fonts/MaterialIcons-Regular.otf": "7f777d9c5b20e7544e2204fc0e4b8f9c",
+"assets/fonts/MaterialIcons-Regular.otf": "13d513a5a0e740416c0846df2ac97047",
 "assets/fonts/Saira.ttf": "6a51bbaba1ad80637c8c3245d2b596db",
 "assets/fonts/Sora.ttf": "457ec8aa0c5f1e074d19e55183f245fe",
-"assets/NOTICES": "28f917ac6c8ee2d4c09ca4900486ea27",
+"assets/NOTICES": "29e1c84105039b861779be1028d11639",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "33b7d9392238c04c131b6ce224e13711",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
 "assets/shaders/stretch_effect.frag": "40d68efbbf360632f614c731219e95f0",
@@ -32,14 +32,34 @@ const RESOURCES = {"assets/AssetManifest.bin": "c0cdbfc55b8fb9c0d37e3f8645df7367
 "canvaskit/skwasm_heavy.wasm": "b0be7910760d205ea4e011458df6ee01",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "flutter.js": "24bc71911b75b5f8135c949e27a2984e",
+<<<<<<< HEAD
 "flutter_bootstrap.js": "787b2c7a6594c2c222073e0978a191b3",
+=======
+<<<<<<< HEAD
+"flutter_bootstrap.js": "787b2c7a6594c2c222073e0978a191b3",
+=======
+"flutter_bootstrap.js": "c5d6372acfb5cb202a5d82d2ae4f8eaa",
+>>>>>>> 83d2586 (adding Ai update)
+>>>>>>> be18939 (adding Ai update)
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
+<<<<<<< HEAD
 "index.html": "4a64aecdc7ca9f28dc639388ef4f8fa6",
 "/": "4a64aecdc7ca9f28dc639388ef4f8fa6",
 "main.dart.js": "6a0a43d798a6ffe56257846ddd3875fb",
+=======
+<<<<<<< HEAD
+"index.html": "4a64aecdc7ca9f28dc639388ef4f8fa6",
+"/": "4a64aecdc7ca9f28dc639388ef4f8fa6",
+"main.dart.js": "6a0a43d798a6ffe56257846ddd3875fb",
+=======
+"index.html": "43132acc6a1b0cf113885ca265d3be69",
+"/": "43132acc6a1b0cf113885ca265d3be69",
+"main.dart.js": "dbba262177880c09f269dc23131c3a12",
+>>>>>>> 83d2586 (adding Ai update)
+>>>>>>> be18939 (adding Ai update)
 "manifest.json": "2c23ee416d26ad977f90a3efdbe0fad2",
 "version.json": "f51e37bab904d727ad07169bb79bc088"};
 // The application shell files that are downloaded before a service worker can

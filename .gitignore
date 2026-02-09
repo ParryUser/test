@@ -1,1 +1,16 @@
+.dart_tool/
+.packages
+.pub-cache/
+build/
+
+# IDEs
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets
 assets/.env
+.env

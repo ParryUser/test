@@ -98354,7 +98354,7 @@ l=A.FN(A.bi(b,A.bA(A.b([k,i,A.bi(b,A.yl(B.cg,A.b([h,g,new A.Mj(l,400,B.M,f,B.fi,
 k=$.iW()
 i=A.bE(15)
 h=A.j4($.f4,1)
-g=A.b([A.bi(b,A.aQ(A.b([A.aT3("Current Medications",$.bc().N())],q),B.n,B.k,B.o,0,b,b),B.p,b,b,b,b,b,b,new A.S(30,30,0,0),b,b,b,b),A.aG2("500-1,000 mg every 4-6 hours as needed",95,"Panadol"),A.aG2("10mg - Once Daily",75,"Loratadine"),A.aG2("325-650 mg every 4-6 hours",45,"Aspirin")],q)
+g=A.b([A.bi(b,A.aQ(A.b([A.aT3("Current Medications",$.bc().N())],q),B.n,B.k,B.o,0,b,b),B.p,b,b,b,b,b,b,new A.S(30,30,0,0),b,b,b,b),A.aG2("500-1,000 mg every 8 hours as needed",95,"Panadol"),A.aG2("10mg - Once Daily",71.4,"Loratadine"),A.aG2("325-650 mg every 12 hours",85.7,"Aspirin")],q)
 B.b.R(g,this.azM())
 return A.anq(s,A.tD(!0,A.bA(A.b([m,n,j,A.df(A.aQ8(A.b([l,A.FN(A.bi(b,A.bA(A.b([A.bi(b,A.bA(g,B.n,B.k,B.o,0,B.A),B.p,b,b,new A.bT(k,b,h,i,b,b,B.V),b,b,b,new A.S(5,5,5,5),b,b,b,b)],q),B.n,B.k,B.o,0,B.A),B.p,b,b,b,b,b,b,new A.S(5,5,5,5),b,b,b,b),b,B.a0,b,b,b,B.aq)],q),r),1)],q),B.n,B.k,B.o,0,B.A),B.ag,!0),new A.ku(o,p,b),b)}}
 A.asL.prototype={
@@ -98432,7 +98432,7 @@ q=A.bE(20)
 p=$.iW()
 o=A.j4($.f4,1)
 n=t.p
-q=A.aQ(A.b([r,A.bi(f,A.ad(""+g.a.c+"%",f,f,f,f,A.ag(f,f,$.bc().N(),f,f,f,f,f,e,f,f,12,f,f,B.m,f,f,!0,f,1,f,f,f,f,f,f),f,f,f),B.p,f,f,new A.bT(p,f,o,q,f,f,B.V),f,f,f,f,new A.S(12,6,12,6),f,f,f)],n),B.n,B.bH,B.o,0,f,f)
+q=A.aQ(A.b([r,A.bi(f,A.ad(A.k(g.a.c)+"%",f,f,f,f,A.ag(f,f,$.bc().N(),f,f,f,f,f,e,f,f,12,f,f,B.m,f,f,!0,f,1,f,f,f,f,f,f),f,f,f),B.p,f,f,new A.bT(p,f,o,q,f,f,B.V),f,f,f,f,new A.S(12,6,12,6),f,f,f)],n),B.n,B.bH,B.o,0,f,f)
 o=A.a1(f,8,f)
 s=A.ad(s,f,f,f,f,A.ag(f,f,$.bo?B.M:B.eu,f,f,f,f,f,e,f,f,16,f,f,B.ah,f,f,!0,f,f,f,f,f,f,f,f),f,f,f)
 r=A.a1(f,10,f)
